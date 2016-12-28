@@ -1,4 +1,4 @@
-# Sist.-Ordem-de-Servi-o
+# Sist.-Ordem-de-Serviço
 Sistema de COntrole de ordem de serviços 
 
 Analise de Requisitos 
